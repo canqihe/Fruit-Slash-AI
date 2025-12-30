@@ -1,0 +1,7 @@
+{
+  "name": "Fruit Slash AI",
+  "description": "A motion-sensing fruit slicing game powered by AI hand tracking. Slice fruits, avoid bombs, and master the blade!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
